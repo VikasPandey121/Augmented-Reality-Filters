@@ -24,7 +24,7 @@ Augmented-Reality-Projects is a collection of AR/VR scripts that are made for fu
    Virtual Reality (VR) is the computer-generated simulation of a three-dimensional image or environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment, such as a helmet with a screen inside or gloves fitted with sensors.
 
 ## Building and Running Augmented-Reality-Projects
-Building and running Augmented-Reality-Projects in your local dev environment is very easy. Be sure that you have prior knowldege of `Spark AR Studio`, then follow the directions below. 
+Building and running Augmented-Reality-Projects in your local dev environment is very easy. Be sure that you have prior knowledge of `Spark AR Studio`, then follow the directions below. 
  1. Clone the source code
 
  `https://github.com/VikasPandey121/Augmented-Reality-Projects.git`
