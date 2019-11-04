@@ -3,6 +3,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/VikasPandey121/Augmented-Reality-Projects?label=Forks&style=social)](https://GitHub.com/VikasPandey121/Augmented-Reality-Projects/network/)
 ![GitHub stars](https://img.shields.io/github/stars/VikasPandey121/Augmented-Reality-Projects?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/VikasPandey121?label=Follow&style=social)
+![](https://img.shields.io/twitter/follow/VikasPandey827?label=Follow&style=social)
 
 
 
