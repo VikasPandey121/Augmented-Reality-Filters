@@ -1,8 +1,8 @@
 [![HitCount](http://hits.dwyl.io/VikasPandey121/Augmented-Reality-Projects.svg)](http://hits.dwyl.io/VikasPandey121/Augmented-Reality-Projects)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/VikasPandey121/Augmented-Reality-Projects/graphs/commit-activity)
-[![GitHub forks](https://img.shields.io/github/forks/VikasPandey121/Augmented-Reality-Projects.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/VikasPandey121/Augmented-Reality-Projects/network/)
-[![GitHub stars](https://img.shields.io/github/stars/VikasPandey121/Augmented-Reality-Projects.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/VikasPandey121/Augmented-Reality-Projects/stargazers/)
-[![GitHub followers](https://img.shields.io/github/followers/VikasPandey121.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/VikasPandey121?tab=followers)
+[![GitHub forks](https://img.shields.io/github/forks/VikasPandey121/Augmented-Reality-Projects?label=Forks&style=social)](https://GitHub.com/VikasPandey121/Augmented-Reality-Projects/network/)
+![GitHub stars](https://img.shields.io/github/stars/VikasPandey121/Augmented-Reality-Projects?style=social)
+![GitHub followers](https://img.shields.io/github/followers/VikasPandey121?label=Follow&style=social)
 
 
 
